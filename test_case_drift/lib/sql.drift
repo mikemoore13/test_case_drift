@@ -1,0 +1,4 @@
+-- .drift files can contain SQL that is analyzed at compile time.
+-- First, let's import the Dart tables so that we can reference them here.
+
+import 'dtos.dart';
